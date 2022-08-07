@@ -10,7 +10,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently work learning Web Development and other programming languages
+- 🌱 I’m currently work & learning Web Development and other programming languages
 
 - 📫 How to reach me **hanimarshall19@gmail.com**
 
